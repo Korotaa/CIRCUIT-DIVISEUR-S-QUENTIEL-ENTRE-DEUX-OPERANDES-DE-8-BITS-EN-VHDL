@@ -1,7 +1,6 @@
+### Circuits  Reprogrammables  &  Conception  des Circuits  Intégrés Numériques En  VHDL
 
-          Circuits  Reprogrammables  &  Conception  des Circuits  Intégrés Numériques En  VHDL
-
-          CONCEPTION D’UN CIRCUIT DIVISEUR SÉQUENTIEL ENTRE DEUX OPERANDES DE 8 BITS EN VHDL
+### CONCEPTION D’UN CIRCUIT DIVISEUR SÉQUENTIEL ENTRE DEUX OPERANDES DE 8 BITS EN VHDL
 
 1. Objectif : 
 
