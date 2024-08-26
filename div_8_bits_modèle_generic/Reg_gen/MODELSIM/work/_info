@@ -1,0 +1,29 @@
+m255
+K3
+13
+cModel Technology
+dC:\ENSAF\after\Semestre2 Ensa SEII1\VHDL\TP_3\div_8_bits_modèle_architectural\Reg_8_bits\MODELSIM
+Ereg_8_bits
+Z0 w1587193896
+Z1 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z2 dC:\ENSAF\after\Semestre2 Ensa SEII1\VHDL\TP_3\div_8_bits_modèle_generic\Reg_gen\MODELSIM
+Z3 8C:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/TP_3/div_8_bits_modèle_generic/Reg_gen/SRC/Reg_8_bits.vhd
+Z4 FC:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/TP_3/div_8_bits_modèle_generic/Reg_gen/SRC/Reg_8_bits.vhd
+l0
+L29
+ViTHUQCim`kAIOY?0VPXDg1
+Z5 OE;C;6.3f;37
+32
+Z6 o-work work
+Z7 tExplicit 1
+Artl
+R1
+DEx4 work 10 reg_8_bits 0 22 iTHUQCim`kAIOY?0VPXDg1
+l42
+L41
+V25bGdS@^PFEhB^7R15<K>2
+R5
+32
+Z8 Mx1 4 ieee 14 std_logic_1164
+R6
+R7

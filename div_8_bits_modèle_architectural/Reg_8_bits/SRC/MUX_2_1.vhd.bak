@@ -1,0 +1,41 @@
+--*********************************************************
+-- ENSA FES 
+-- Filière : 1ère Année GSEII
+--**********************************************************
+--Title : MUX_2_1.vhd
+--TP : Conception d'une serrure Electronique
+--Block : Partie operative
+--
+--*************************************************************
+--File : MUX_2_1.vhd
+--Authors : COULIBALY Korota Arsène
+--Created : 15/04/2020
+--
+--*************************************************************
+--Description : si sel=1=>s=a sinon s=B 
+--*************************************************************
+--***********************************************************
+-- Used Libraries
+--***********************************************************
+
+LIBRARY IEEE;
+    USE IEEE.STD_LOGIC_1164.all;
+    
+--************************************************************
+-- ENTITY Declaration
+--************************************************************
+
+ENTITY MUX_2_1 IS PORT(
+A: IN std_logic_vector(7 DOWNTO 0);
+B: IN std_logic_vector(7 DOWNTO 0);
+sel: IN std_logic;
+S: OUT std_logic_vector(7 DOWNTO 0));
+END MUX_2_1;
+
+--***********************************************************
+-- RTL Description
+--***********************************************************
+
+ARCHITECTURE RTL OF MUX_2_1 IS 
+BEGIN
+    S<=A WHEN sel='1'ELSE B;
